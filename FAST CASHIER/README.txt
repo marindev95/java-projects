@@ -1,6 +1,9 @@
 Project by
 -David Rodriguez @marindev
 Student UNAH, Honduras
+
+*Note:*
+the original code contains most of the words in Spanish
 ***************************
 Project: FAST CASHIER
 ***************************
